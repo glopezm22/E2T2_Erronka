@@ -1,0 +1,10 @@
+gailua,osagaia,batez_bestekoa_ms,p95_ms,max_ms
+t2-desktop,Aurreprozesamendua,0.0812,0.0826,0.1782
+t2-desktop,NO2 erregresioko MLPa (numpy),0.0688,0.0701,0.162
+t2-desktop,ICA erabaki-zuhaitza,0.0512,0.0515,0.1496
+t2-desktop,K-means egoera,0.2453,0.2627,0.3705
+t2-desktop,"Sistema osoa, ordu 1 (numpy)",0.5433,0.6387,0.7491
+t2-desktop,NO2 erregresioko MLPa (tflite),0.1148,0.1217,0.2659
+t2-desktop,"Sistema osoa, ordu 1 (tflite)",0.6104,0.7043,0.8287
+t2-desktop,NO2 erregresioko MLPa (tflite int8),0.1158,0.1231,0.2456
+t2-desktop,Simulazioko datu guztiak (7253 ordu),4019.0,,

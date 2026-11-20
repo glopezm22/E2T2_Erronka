@@ -1,0 +1,8 @@
+eredua,proba MAE,proba RMSE,proba R2
+Iraunkortasuna (baseline),4.554,7.01,0.712
+Lineal sinplea (uneko NO2a),4.523,6.761,0.732
+Lineal anizkoitza,4.263,6.314,0.766
+Ridge (alpha=100),4.255,6.315,0.766
+Lasso (alpha=0.01),4.242,6.314,0.766
+Gehigarria: Random Forest,4.209,6.372,0.762
+"MLP [64, 32] dropout=0.2",4.116,6.193,0.775
