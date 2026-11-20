@@ -2,7 +2,7 @@
 
 Barakaldoko airearen kalitatea iragartzeko eta monitorizatzeko sistema adimenduna, Bizkaiko Foru Aldundiarentzat.
 
-Taldea: Erlantz, Gorka, Iñigo eta Iraitz
+Erlantz, Gorka, Iñigo eta Iraitz
 
 ## Entregagarriak
 
@@ -15,7 +15,6 @@ Taldea: Erlantz, Gorka, Iñigo eta Iraitz
 | 5 | Sistema Jetson Nanon | jetson/, koadernoak/07, docs/MIA_txostena.docx (3. atala) eta demoaren bideoa |
 | 6 | Aginte-panela | dashboard/app.py, dashboard.bat, docs/MIA_txostena.docx (4. atala) |
 | 7 | Sistema adituna | koadernoak/08, docs/MIA_txostena.docx (5. atala) |
-| 8 | Aurkezpena | docs/aurkezpena/ |
 
 ## Datuak
 
