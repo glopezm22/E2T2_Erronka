@@ -9,12 +9,12 @@ Erlantz, Gorka, Iñigo eta Iraitz
 | # | Entregagarria | Non |
 |---|---|---|
 | 1 | EDA | koadernoak/01_karga_eta_EDA.ipynb |
-| 2 | Aurreprozesamenduko pipeline-a eta dokumentazioa | koadernoak/02, src/, docs/aurreprozesamenduaren_dokumentazioa.docx |
-| 3 | Ereduak eta txosten konparatiboa | koadernoak/03-05, docs/SAA_txostena.docx |
-| 4 | Sare neuronala | koadernoak/06, docs/MIA_txostena.docx (2. atala) |
-| 5 | Sistema Jetson Nanon | jetson/, koadernoak/07, docs/MIA_txostena.docx (3. atala) eta demoaren bideoa |
-| 6 | Aginte-panela | dashboard/app.py, dashboard.bat, docs/MIA_txostena.docx (4. atala) |
-| 7 | Sistema adituna | koadernoak/08, docs/MIA_txostena.docx (5. atala) |
+| 2 | Aurreprozesamenduko pipeline-a eta dokumentazioa | koadernoak/02, src/, docs/PIA_aurreprozesamenduaren_dokumentazioa.md |
+| 3 | Ereduak eta txosten konparatiboa | koadernoak/03-05, docs/E2T2_SAA_Txostena.pdf |
+| 4 | Sare neuronala | koadernoak/06, docs/E2T2_MIA_Txostena.pdf (2. atala) |
+| 5 | Sistema Jetson Nanon | jetson/, koadernoak/07, docs/E2T2_MIA_Txostena.pdf (3. atala) eta demoaren bideoa |
+| 6 | Aginte-panela | dashboard/app.py, dashboard.bat, docs/E2T2_MIA_Txostena.pdf (4. atala) |
+| 7 | Sistema adituna | koadernoak/08, docs/E2T2_MIA_Txostena.pdf (5. atala) |
 
 ## Datuak
 
